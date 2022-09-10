@@ -1,5 +1,5 @@
 # MANEJO DE CUENCAS HIDROGRAFICAS EN COSTA RICA  
-*Wendy Navarro Abarca.2022*  
+*Wendy Navarro Abarca.           Setiembre 2022*  
 
 El concepto de manejo de cuencas ha ido evolucionando en el país conforme las tendencias mundiales y el grado de aceptación y utilización de la cuenca  como unidad de planificación   en los diferentes programas que el país ha llevado a cabo.    
 
