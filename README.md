@@ -1,6 +1,9 @@
 # MANEJO DE CUENCAS HIDROGRAFICAS EN COSTA RICA  
 *Wendy Navarro Abarca.           Setiembre 2022*  
 
+![CUencas Hidrograficas](https://losinformativos.com/wp-content/uploads/2020/12/103456964_4130645566976126_2035728132532021116_o.jpg)  
+
+
 El concepto de manejo de cuencas ha ido evolucionando en el país conforme las tendencias mundiales y el grado de aceptación y utilización de la cuenca  como unidad de planificación   en los diferentes programas que el país ha llevado a cabo.    
 
 Del manejo de cuencas se viene hablando en Costa Rica desde los inicios de los 60, cuando instituciones responsables del recurso hídrico como el ICE, SENARA y AYA  realizaban estudios hidrológicos de cuencas con fines específicos  para resolver problemas puntuales, demandas  sectoriales de agua y para el establecimiento de proyectos, con una visión muy restringida con relación a actividades concretas sobre los recursos naturales y haciendo énfasis entonces en la planificación del recurso hídrico, con fines energéticos y de riego fundamentalmente.  
