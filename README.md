@@ -10,3 +10,5 @@ Es el conjunto de técnicas que se aplican para el análisis, protección, rehab
 ## Definición de manejo de cuencas     
 
 En el país se utilizan diferentes definiciones que abarcan el concepto de manejo de cuencas, por preferencia estas probienen de la **FAO**. Esta definicion según la Ley de Conservaci de Suelos __N° 7779__ es: Cuenca Hidrografica es el área geográfica cuya superficiales vierten a un sistema de desague o red hidrológica común, confluyendo a su vez en un cauce mayor, que puede desembocar en un río principal, lao, marima, embalse o directamente en el mar. Está delimitada por la línea divisoria de aguas y puede constituir una unidad para la planificación integral del desarrollo socioeconómico y conservación de los recursos  naturales, agua, flora y fauna.  
+
+La Red Nacional de cuencas ha basado su enfoque integral de gestión de cuencas en razón del enfoque utilizado para la definición del concepto de  cuenca hidrográfica que se resume en lo siguiente:  
