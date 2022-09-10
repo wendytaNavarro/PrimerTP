@@ -37,4 +37,13 @@ __*Marco Institucional*__
 __*Planes, Programas y Proyectos*__  
 
 >La gestión de cuencas en Costa Rica presenta limitaciones  tanto de orden legal como institucional, administrativo y de decisión política. El control administrativo de las distintas actividades que definen las cuencas está contemplado en gran diversidad de leyes, sin que exista una unidad de decisión política, planificación, manejo y conservación de estas unidades territoriales. Al mismo tiempo, ocurren una serie de superposiciones y competencias entre los distintos organismos relacionados con el manejo de cuencas, que provocan duplicidades de esfuerzos y/o falta de definiciones, por no haber claridad en las disposiciones jurídicas.  Si bien la Red Nacional de Cuencas, es un mecanismo de coordinación e intercambio de experiencias que potencia el funcionamiento de cada institución en materia relevante, existen otros mecanismos de coordinación entre instituciones, como es el caso del vínculo del MAG y el ICE, para el manejo integral de la cuenca del río Reventazón, pero que sirve de marco de referencia para el manejo de otras cuencas, de igual forma el caso del MINAE con el ICE, así de otras institucione.  
-![Algunos Planes](Captura)  
+
+![Algunos Planes](Captura)
+
+### Estrategias metodologicas  
+
+La gestión integral del recurso hídrico es un paso importante en la gestión de cuencas, nos conduce hacia esta gestión, por lo que no debe descartarse su realización, cuando se presenta la posibilidad de realizarlo. 28-  Para alcanzar la gestión integral podemos iniciar las acciones, a partir de la gestión integral del recurso hídrico, para luego proseguir la tarea con la gestión a nivel de subcuencas o microcuencas prioritarias. - Si se invierte en la elaboración de planes de manejo debe contarse con las  condiciones adecuadas para la ejecución de estos planes ( concertación, financiamiento y el marco legal  junto con la estructura correspondiente). 
+
+#### Referencias Bibliograficas  
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cne.go.cr/CEDO-CRID/CEDO-CRID%20v2.0/CEDO/pdf/spa/doc14470/doc14470.pdf  
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cne.go.cr/preparativos_respuestas/documentos/manuales_procedimientos/Manual%20de%20Formacion%20GR%20comunitaria%20por%20Tsunami.pdf  
