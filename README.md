@@ -13,5 +13,5 @@ En el país se utilizan diferentes definiciones que abarcan el concepto de manej
 
 La Red Nacional de cuencas ha basado su enfoque integral de gestión de cuencas en razón del enfoque utilizado para la definición del concepto de  cuenca hidrográfica que se resume en lo siguiente:  
 
--La cuenca hidrográfica concebida como un sistema  conformada por las interrelaciones dinámicas en el tiempo y en el espacio de los subsistemas social, económico, político, institucional, cultural, legal, físico y biológico y la interacción entre la parte alta, media y baja de la cuenca, el análisis integral de las causas, efectos y solución de los problemas.  
+_ La cuenca hidrográfica concebida como 
 
