@@ -19,6 +19,9 @@ La Red Nacional de cuencas ha basado su enfoque integral de gestión de cuencas 
 -  Participació concentrada  en productores, familias, comunidad, instituciones y actores en general.  
 -  Extenció al servicio de realidades, problemas y necesidades , junto con la busqueda de soluciones.  
 -  Coordinación interinstitucional  local para armonizar el manejo de cuencas.  
--  Ordenamiento territorial y zonificación de acuerdo al  crecimiento poblacional.
-  !cuenca-hidrográficas[cuenca-hidrográfica]  
+-  Ordenamiento territorial y zonificación de acuerdo al  crecimiento poblacional.  
+
+  
+![ Ilustración](1)  
+
   
